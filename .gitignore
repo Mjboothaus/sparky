@@ -1,3 +1,10 @@
+.metals*
+.venv*
+.vscode/
+*.parquet
+*.orc
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
