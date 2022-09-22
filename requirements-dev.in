@@ -1,6 +1,7 @@
-pandas
-koalas
-pyspark
-notebook
+# koalas
 autopep8
+notebook
+pandas
 plotly
+pyspark
+pyarrow

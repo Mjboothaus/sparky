@@ -3,6 +3,7 @@
 .vscode/
 *.parquet
 *.orc
+*/*.csv/*part*
 
 
 # Byte-compiled / optimized / DLL files
