@@ -8,3 +8,4 @@ ibis-framework[pyspark]
 sqlglot
 # spark-df-profiling <-- this is out-of-date
 git+https://github.com/julioasotodv/spark-df-profiling
+virtualenv
