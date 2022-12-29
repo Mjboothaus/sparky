@@ -1,3 +1,4 @@
+*.gz
 .metals*
 .venv*
 .vscode/
